@@ -70,28 +70,24 @@ namespace LINQ
             return items;
         }
 
-        // TODO: Implemente métodos para cada nível de desafios
-        /*
-        static void RunLevel1Challenges()
-        {
-            Console.WriteLine("\n=== Nível 1: Fundamentos ===\n");
-            
-            // Implemente os desafios do Nível 1 aqui
-        }
+        // static void RunLevel1Challenges()
+        // {
+        //     Console.WriteLine("\n=== Nível 1: Fundamentos ===\n");
+
+        // }
         
-        static void RunLevel2Challenges()
-        {
-            Console.WriteLine("\n=== Nível 2: Intermediário ===\n");
+        // static void RunLevel2Challenges()
+        // {
+        //     Console.WriteLine("\n=== Nível 2: Intermediário ===\n");
             
-            // Implemente os desafios do Nível 2 aqui
-        }
+        //     // Implemente os desafios do Nível 2 aqui
+        // }
         
-        static void RunLevel3Challenges()
-        {
-            Console.WriteLine("\n=== Nível 3: Avançado ===\n");
+        // static void RunLevel3Challenges()
+        // {
+        //     Console.WriteLine("\n=== Nível 3: Avançado ===\n");
             
-            // Implemente os desafios do Nível 3 aqui
-        }
-        */
+        //     // Implemente os desafios do Nível 3 aqui
+        // }
     }
 }
