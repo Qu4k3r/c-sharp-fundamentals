@@ -1,0 +1,289 @@
+[
+  {
+    "Id": 1,
+    "Name": "Machado de Assis",
+    "Country": "Brasil",
+    "BirthDate": "1839-06-21T00:00:00",
+    "Biography": "Joaquim Maria Machado de Assis foi um escritor brasileiro, considerado por muitos críticos o maior nome da literatura brasileira."
+  },
+  {
+    "Id": 2,
+    "Name": "Jane Austen",
+    "Country": "Reino Unido",
+    "BirthDate": "1775-12-16T00:00:00",
+    "Biography": "Romancista inglesa conhecida principalmente por seus seis romances principais."
+  },
+  {
+    "Id": 3,
+    "Name": "F. Scott Fitzgerald",
+    "Country": "Estados Unidos",
+    "BirthDate": "1896-09-24T00:00:00",
+    "Biography": "Escritor americano de romances e contos da era do Jazz, amplamente considerado um dos melhores autores americanos do século XX."
+  },
+  {
+    "Id": 4,
+    "Name": "Gabriel García Márquez",
+    "Country": "Colômbia",
+    "BirthDate": "1927-03-06T00:00:00",
+    "Biography": "Escritor, jornalista e ativista político colombiano, considerado um dos autores mais significativos do século XX."
+  },
+  {
+    "Id": 5,
+    "Name": "George Orwell",
+    "Country": "Reino Unido",
+    "BirthDate": "1903-06-25T00:00:00",
+    "Biography": "Eric Arthur Blair, conhecido pelo pseudônimo George Orwell, foi um romancista, jornalista e crítico britânico famoso por suas sátiras políticas."
+  },
+  {
+    "Id": 6,
+    "Name": "J.R.R. Tolkien",
+    "Country": "Reino Unido",
+    "BirthDate": "1892-01-03T00:00:00",
+    "Biography": "John Ronald Reuel Tolkien foi um escritor, poeta, filólogo e professor universitário britânico, autor de clássicos da fantasia como 'O Hobbit' e 'O Senhor dos Anéis'."
+  },
+  {
+    "Id": 7,
+    "Name": "Antoine de Saint-Exupéry",
+    "Country": "França",
+    "BirthDate": "1900-06-29T00:00:00",
+    "Biography": "Escritor, ilustrador e piloto francês, conhecido principalmente por sua obra 'O Pequeno Príncipe'."
+  },
+  {
+    "Id": 8,
+    "Name": "J.K. Rowling",
+    "Country": "Reino Unido",
+    "BirthDate": "1965-07-31T00:00:00",
+    "Biography": "Joanne Rowling é uma escritora, roteirista e produtora britânica, conhecida por escrever a série de livros 'Harry Potter'."
+  },
+  {
+    "Id": 9,
+    "Name": "Fiódor Dostoiévski",
+    "Country": "Rússia",
+    "BirthDate": "1821-11-11T00:00:00",
+    "Biography": "Escritor russo, considerado um dos maiores romancistas e pensadores da história, famoso por explorar a psicologia humana em contextos políticos, sociais e espirituais."
+  },
+  {
+    "Id": 10,
+    "Name": "Paulo Coelho",
+    "Country": "Brasil",
+    "BirthDate": "1947-08-24T00:00:00",
+    "Biography": "Escritor, letrista e jornalista brasileiro, amplamente conhecido por seus romances que abordam temas espirituais e de autodescoberta."
+  },
+  {
+    "Id": 11,
+    "Name": "Clarice Lispector",
+    "Country": "Brasil",
+    "BirthDate": "1920-12-10T00:00:00",
+    "Biography": "Escritora e jornalista brasileira, nascida na Ucrânia, reconhecida como uma das mais importantes escritoras do século XX."
+  },
+  {
+    "Id": 12,
+    "Name": "Markus Zusak",
+    "Country": "Austrália",
+    "BirthDate": "1975-06-23T00:00:00",
+    "Biography": "Escritor australiano de ascendência alemã e austríaca, conhecido por seus romances 'A Menina que Roubava Livros' e 'Eu Sou o Mensageiro'."
+  },
+  {
+    "Id": 13,
+    "Name": "Graciliano Ramos",
+    "Country": "Brasil",
+    "BirthDate": "1892-10-27T00:00:00",
+    "Biography": "Escritor brasileiro, um dos mais importantes romancistas modernistas, conhecido por 'Vidas Secas' e 'São Bernardo'."
+  },
+  {
+    "Id": 14,
+    "Name": "Aluísio Azevedo",
+    "Country": "Brasil",
+    "BirthDate": "1857-04-14T00:00:00",
+    "Biography": "Romancista, contista, cronista, diplomata, caricaturista e jornalista brasileiro, considerado o precursor do Naturalismo no Brasil."
+  },
+  {
+    "Id": 15,
+    "Name": "George R.R. Martin",
+    "Country": "Estados Unidos",
+    "BirthDate": "1948-09-20T00:00:00",
+    "Biography": "Romancista e roteirista americano de fantasia, terror e ficção científica, mais conhecido por 'As Crônicas de Gelo e Fogo', adaptada para TV como 'Game of Thrones'."
+  },
+  {
+    "Id": 16,
+    "Name": "John Green",
+    "Country": "Estados Unidos",
+    "BirthDate": "1977-08-24T00:00:00",
+    "Biography": "Autor de livros para jovens adultos, vlogger, produtor e editor. Seus livros receberam vários prêmios, incluindo o Printz Award por 'Quem É Você, Alasca?'."
+  },
+  {
+    "Id": 17,
+    "Name": "José Saramago",
+    "Country": "Portugal",
+    "BirthDate": "1922-11-16T00:00:00",
+    "Biography": "Escritor português laureado com o Prêmio Nobel de Literatura em 1998, conhecido por suas obras alegóricas e seu estilo de pontuação único."
+  },
+  {
+    "Id": 18,
+    "Name": "Patrick Rothfuss",
+    "Country": "Estados Unidos",
+    "BirthDate": "1973-06-06T00:00:00",
+    "Biography": "Escritor americano de fantasia e professor universitário, conhecido pela série 'A Crônica do Matador do Rei'."
+  },
+  {
+    "Id": 19,
+    "Name": "Dan Brown",
+    "Country": "Estados Unidos",
+    "BirthDate": "1964-06-22T00:00:00",
+    "Biography": "Escritor americano conhecido por seus thrillers de conspiração, particularmente 'O Código da Vinci'."
+  },
+  {
+    "Id": 20,
+    "Name": "Stephen King",
+    "Country": "Estados Unidos",
+    "BirthDate": "1947-09-21T00:00:00",
+    "Biography": "Autor americano de livros de terror, suspense, ficção científica e fantasia, muitos dos quais foram adaptados para filmes e séries de TV."
+  },
+  {
+    "Id": 21,
+    "Name": "Nicolau Maquiavel",
+    "Country": "Itália",
+    "BirthDate": "1469-05-03T00:00:00",
+    "Biography": "Diplomata, filósofo político, historiador, escritor e humanista italiano do Renascimento. É mais conhecido por 'O Príncipe'."
+  },
+  {
+    "Id": 22,
+    "Name": "Lucy Maud Montgomery",
+    "Country": "Canadá",
+    "BirthDate": "1874-11-30T00:00:00",
+    "Biography": "Autora canadense conhecida por seus romances ambientados na Ilha do Príncipe Eduardo, incluindo 'Anne de Green Gables'."
+  },
+  {
+    "Id": 23,
+    "Name": "Frank Herbert",
+    "Country": "Estados Unidos",
+    "BirthDate": "1920-10-08T00:00:00",
+    "Biography": "Escritor americano de ficção científica mais conhecido por 'Duna', considerada a série de ficção científica mais vendida de todos os tempos."
+  },
+  {
+    "Id": 24,
+    "Name": "Herman Melville",
+    "Country": "Estados Unidos",
+    "BirthDate": "1819-08-01T00:00:00",
+    "Biography": "Romancista, contista, ensaísta e poeta americano, mais conhecido pelo romance 'Moby Dick'."
+  },
+  {
+    "Id": 25,
+    "Name": "Franz Kafka",
+    "Country": "República Tcheca",
+    "BirthDate": "1883-07-03T00:00:00",
+    "Biography": "Escritor de língua alemã, autor de romances e contos, considerado um dos escritores mais influentes do século XX, conhecido por 'A Metamorfose'."
+  },
+  {
+    "Id": 26,
+    "Name": "Victor Hugo",
+    "Country": "França",
+    "BirthDate": "1802-02-26T00:00:00",
+    "Biography": "Poeta, novelista e dramaturgo francês, um dos mais importantes do Romantismo francês, conhecido por 'Os Miseráveis' e 'O Corcunda de Notre-Dame'."
+  },
+  {
+    "Id": 27,
+    "Name": "Jorge Amado",
+    "Country": "Brasil",
+    "BirthDate": "1912-08-10T00:00:00",
+    "Biography": "Um dos mais famosos e traduzidos escritores brasileiros, conhecido por retratar a cultura baiana em obras como 'Capitães da Areia' e 'Gabriela, Cravo e Canela'."
+  },
+  {
+    "Id": 28,
+    "Name": "Yuval Noah Harari",
+    "Country": "Israel",
+    "BirthDate": "1976-02-24T00:00:00",
+    "Biography": "Historiador e Professor da Universidade Hebraica de Jerusalém, autor dos best-sellers 'Sapiens: Uma Breve História da Humanidade' e 'Homo Deus'."
+  },
+  {
+    "Id": 29,
+    "Name": "William P. Young",
+    "Country": "Canadá",
+    "BirthDate": "1955-05-11T00:00:00",
+    "Biography": "Escritor canadense conhecido pelo romance 'A Cabana', que se tornou um best-seller internacional."
+  },
+  {
+    "Id": 30,
+    "Name": "João Guimarães Rosa",
+    "Country": "Brasil",
+    "BirthDate": "1908-06-27T00:00:00",
+    "Biography": "Escritor, diplomata e médico brasileiro, considerado um dos maiores escritores brasileiros de todos os tempos, conhecido por 'Grande Sertão: Veredas'."
+  },
+  {
+    "Id": 31,
+    "Name": "Dante Alighieri",
+    "Country": "Itália",
+    "BirthDate": "1265-05-21T00:00:00",
+    "Biography": "Poeta, escritor e pensador italiano, conhecido principalmente por sua obra-prima, 'A Divina Comédia'."
+  },
+  {
+    "Id": 32,
+    "Name": "Aldous Huxley",
+    "Country": "Reino Unido",
+    "BirthDate": "1894-07-26T00:00:00",
+    "Biography": "Escritor e filósofo inglês, autor de 'Admirável Mundo Novo', uma das mais importantes distopias do século XX."
+  },
+  {
+    "Id": 33,
+    "Name": "Oscar Wilde",
+    "Country": "Irlanda",
+    "BirthDate": "1854-10-16T00:00:00",
+    "Biography": "Escritor, poeta e dramaturgo irlandês, conhecido por sua inteligência, seu humor e sua crítica à sociedade vitoriana."
+  },
+  {
+    "Id": 34,
+    "Name": "José de Alencar",
+    "Country": "Brasil",
+    "BirthDate": "1829-05-01T00:00:00",
+    "Biography": "Romancista, dramaturgo, jornalista, advogado e político brasileiro, um dos maiores expoentes da literatura romântica brasileira."
+  },
+  {
+    "Id": 35,
+    "Name": "Lev Tolstói",
+    "Country": "Rússia",
+    "BirthDate": "1828-09-09T00:00:00",
+    "Biography": "Escritor russo, autor de 'Guerra e Paz' e 'Anna Karenina', considerado um dos maiores escritores de todos os tempos."
+  },
+  {
+    "Id": 36,
+    "Name": "Milan Kundera",
+    "Country": "República Tcheca",
+    "BirthDate": "1929-04-01T00:00:00",
+    "Biography": "Escritor tcheco naturalizado francês, autor de 'A Insustentável Leveza do Ser', um dos romances mais importantes do século XX."
+  },
+  {
+    "Id": 37,
+    "Name": "H.G. Wells",
+    "Country": "Reino Unido",
+    "BirthDate": "1866-09-21T00:00:00",
+    "Biography": "Escritor britânico, considerado um dos pioneiros da ficção científica, conhecido por 'A Máquina do Tempo', 'A Guerra dos Mundos' e 'O Homem Invisível'."
+  },
+  {
+    "Id": 38,
+    "Name": "Suzanne Collins",
+    "Country": "Estados Unidos",
+    "BirthDate": "1962-08-10T00:00:00",
+    "Biography": "Escritora e roteirista americana, conhecida principalmente por sua série 'Jogos Vorazes'."
+  },
+  {
+    "Id": 39,
+    "Name": "Colleen Hoover",
+    "Country": "Estados Unidos",
+    "BirthDate": "1979-12-11T00:00:00",
+    "Biography": "Autora americana de romances para jovens adultos e romances contemporâneos, conhecida por 'É Assim que Acaba' e 'Verity'."
+  },
+  {
+    "Id": 40,
+    "Name": "Jordan B. Peterson",
+    "Country": "Canadá",
+    "BirthDate": "1962-06-12T00:00:00",
+    "Biography": "Psicólogo clínico, professor de psicologia e autor canadense, conhecido por '12 Regras para a Vida' e 'Maps of Meaning'."
+  },
+  {
+    "Id": 41,
+    "Name": "William Shakespeare",
+    "Country": "Reino Unido",
+    "BirthDate": "1564-04-26T00:00:00",
+    "Biography": "Poeta, dramaturgo e ator inglês, amplamente considerado o maior escritor do idioma inglês e o mais importante dramaturgo do mundo."
+  }
+] 

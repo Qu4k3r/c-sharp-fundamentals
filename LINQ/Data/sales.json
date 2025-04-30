@@ -1,0 +1,802 @@
+[
+  {
+    "Id": 1,
+    "BookId": 5,
+    "CustomerId": 12,
+    "SaleDate": "2023-05-15T14:30:00",
+    "Quantity": 1,
+    "TotalAmount": 24.99
+  },
+  {
+    "Id": 2,
+    "BookId": 3,
+    "CustomerId": 8,
+    "SaleDate": "2023-05-16T09:45:00",
+    "Quantity": 2,
+    "TotalAmount": 59.98
+  },
+  {
+    "Id": 3,
+    "BookId": 7,
+    "CustomerId": 15,
+    "SaleDate": "2023-05-17T11:20:00",
+    "Quantity": 1,
+    "TotalAmount": 32.50
+  },
+  {
+    "Id": 4,
+    "BookId": 12,
+    "CustomerId": 4,
+    "SaleDate": "2023-05-18T16:10:00",
+    "Quantity": 3,
+    "TotalAmount": 87.75
+  },
+  {
+    "Id": 5,
+    "BookId": 2,
+    "CustomerId": 22,
+    "SaleDate": "2023-05-19T13:40:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 6,
+    "BookId": 9,
+    "CustomerId": 10,
+    "SaleDate": "2023-05-20T10:15:00",
+    "Quantity": 2,
+    "TotalAmount": 54.80
+  },
+  {
+    "Id": 7,
+    "BookId": 1,
+    "CustomerId": 7,
+    "SaleDate": "2023-05-22T14:55:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 8,
+    "BookId": 11,
+    "CustomerId": 3,
+    "SaleDate": "2023-05-23T09:30:00",
+    "Quantity": 1,
+    "TotalAmount": 19.90
+  },
+  {
+    "Id": 9,
+    "BookId": 8,
+    "CustomerId": 19,
+    "SaleDate": "2023-05-24T17:20:00",
+    "Quantity": 1,
+    "TotalAmount": 45.50
+  },
+  {
+    "Id": 10,
+    "BookId": 6,
+    "CustomerId": 11,
+    "SaleDate": "2023-05-25T11:10:00",
+    "Quantity": 2,
+    "TotalAmount": 33.98
+  },
+  {
+    "Id": 11,
+    "BookId": 4,
+    "CustomerId": 5,
+    "SaleDate": "2023-06-01T15:45:00",
+    "Quantity": 1,
+    "TotalAmount": 28.50
+  },
+  {
+    "Id": 12,
+    "BookId": 10,
+    "CustomerId": 17,
+    "SaleDate": "2023-06-02T10:30:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 13,
+    "BookId": 2,
+    "CustomerId": 9,
+    "SaleDate": "2023-06-03T14:15:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 14,
+    "BookId": 7,
+    "CustomerId": 20,
+    "SaleDate": "2023-06-05T16:50:00",
+    "Quantity": 2,
+    "TotalAmount": 65.00
+  },
+  {
+    "Id": 15,
+    "BookId": 3,
+    "CustomerId": 6,
+    "SaleDate": "2023-06-06T09:20:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 16,
+    "BookId": 5,
+    "CustomerId": 13,
+    "SaleDate": "2023-06-07T13:40:00",
+    "Quantity": 1,
+    "TotalAmount": 24.99
+  },
+  {
+    "Id": 17,
+    "BookId": 1,
+    "CustomerId": 2,
+    "SaleDate": "2023-06-09T11:25:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 18,
+    "BookId": 9,
+    "CustomerId": 16,
+    "SaleDate": "2023-06-10T16:10:00",
+    "Quantity": 3,
+    "TotalAmount": 82.20
+  },
+  {
+    "Id": 19,
+    "BookId": 8,
+    "CustomerId": 4,
+    "SaleDate": "2023-06-12T14:35:00",
+    "Quantity": 1,
+    "TotalAmount": 45.50
+  },
+  {
+    "Id": 20,
+    "BookId": 6,
+    "CustomerId": 21,
+    "SaleDate": "2023-06-15T10:50:00",
+    "Quantity": 1,
+    "TotalAmount": 16.99
+  },
+  {
+    "Id": 21,
+    "BookId": 4,
+    "CustomerId": 18,
+    "SaleDate": "2023-06-18T15:25:00",
+    "Quantity": 2,
+    "TotalAmount": 57.00
+  },
+  {
+    "Id": 22,
+    "BookId": 10,
+    "CustomerId": 7,
+    "SaleDate": "2023-06-20T09:30:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 23,
+    "BookId": 2,
+    "CustomerId": 14,
+    "SaleDate": "2023-06-22T12:45:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 24,
+    "BookId": 5,
+    "CustomerId": 1,
+    "SaleDate": "2023-06-25T16:20:00",
+    "Quantity": 2,
+    "TotalAmount": 49.98
+  },
+  {
+    "Id": 25,
+    "BookId": 11,
+    "CustomerId": 9,
+    "SaleDate": "2023-06-28T11:10:00",
+    "Quantity": 1,
+    "TotalAmount": 19.90
+  },
+  {
+    "Id": 26,
+    "BookId": 3,
+    "CustomerId": 22,
+    "SaleDate": "2023-07-01T13:40:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 27,
+    "BookId": 7,
+    "CustomerId": 5,
+    "SaleDate": "2023-07-03T10:25:00",
+    "Quantity": 1,
+    "TotalAmount": 32.50
+  },
+  {
+    "Id": 28,
+    "BookId": 12,
+    "CustomerId": 15,
+    "SaleDate": "2023-07-05T16:55:00",
+    "Quantity": 2,
+    "TotalAmount": 58.50
+  },
+  {
+    "Id": 29,
+    "BookId": 1,
+    "CustomerId": 11,
+    "SaleDate": "2023-07-08T14:15:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 30,
+    "BookId": 8,
+    "CustomerId": 3,
+    "SaleDate": "2023-07-10T09:30:00",
+    "Quantity": 1,
+    "TotalAmount": 45.50
+  },
+  {
+    "Id": 31,
+    "BookId": 6,
+    "CustomerId": 19,
+    "SaleDate": "2023-07-12T11:45:00",
+    "Quantity": 1,
+    "TotalAmount": 16.99
+  },
+  {
+    "Id": 32,
+    "BookId": 9,
+    "CustomerId": 8,
+    "SaleDate": "2023-07-15T15:20:00",
+    "Quantity": 2,
+    "TotalAmount": 54.80
+  },
+  {
+    "Id": 33,
+    "BookId": 4,
+    "CustomerId": 13,
+    "SaleDate": "2023-07-18T10:40:00",
+    "Quantity": 1,
+    "TotalAmount": 28.50
+  },
+  {
+    "Id": 34,
+    "BookId": 10,
+    "CustomerId": 6,
+    "SaleDate": "2023-07-20T14:55:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 35,
+    "BookId": 2,
+    "CustomerId": 17,
+    "SaleDate": "2023-07-23T12:10:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 36,
+    "BookId": 5,
+    "CustomerId": 2,
+    "SaleDate": "2023-07-25T09:25:00",
+    "Quantity": 1,
+    "TotalAmount": 24.99
+  },
+  {
+    "Id": 37,
+    "BookId": 11,
+    "CustomerId": 20,
+    "SaleDate": "2023-07-27T16:40:00",
+    "Quantity": 2,
+    "TotalAmount": 39.80
+  },
+  {
+    "Id": 38,
+    "BookId": 3,
+    "CustomerId": 4,
+    "SaleDate": "2023-07-30T13:15:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 39,
+    "BookId": 7,
+    "CustomerId": 10,
+    "SaleDate": "2023-08-02T11:30:00",
+    "Quantity": 1,
+    "TotalAmount": 32.50
+  },
+  {
+    "Id": 40,
+    "BookId": 1,
+    "CustomerId": 16,
+    "SaleDate": "2023-08-05T15:50:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 41,
+    "BookId": 8,
+    "CustomerId": 9,
+    "SaleDate": "2023-08-08T10:15:00",
+    "Quantity": 1,
+    "TotalAmount": 45.50
+  },
+  {
+    "Id": 42,
+    "BookId": 12,
+    "CustomerId": 1,
+    "SaleDate": "2023-08-10T14:40:00",
+    "Quantity": 2,
+    "TotalAmount": 58.50
+  },
+  {
+    "Id": 43,
+    "BookId": 6,
+    "CustomerId": 14,
+    "SaleDate": "2023-08-12T09:55:00",
+    "Quantity": 1,
+    "TotalAmount": 16.99
+  },
+  {
+    "Id": 44,
+    "BookId": 4,
+    "CustomerId": 21,
+    "SaleDate": "2023-08-15T12:20:00",
+    "Quantity": 1,
+    "TotalAmount": 28.50
+  },
+  {
+    "Id": 45,
+    "BookId": 9,
+    "CustomerId": 5,
+    "SaleDate": "2023-08-18T16:35:00",
+    "Quantity": 3,
+    "TotalAmount": 82.20
+  },
+  {
+    "Id": 46,
+    "BookId": 2,
+    "CustomerId": 12,
+    "SaleDate": "2023-08-20T11:50:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 47,
+    "BookId": 10,
+    "CustomerId": 7,
+    "SaleDate": "2023-08-22T15:05:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 48,
+    "BookId": 5,
+    "CustomerId": 18,
+    "SaleDate": "2023-08-25T10:30:00",
+    "Quantity": 2,
+    "TotalAmount": 49.98
+  },
+  {
+    "Id": 49,
+    "BookId": 3,
+    "CustomerId": 3,
+    "SaleDate": "2023-08-28T14:45:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 50,
+    "BookId": 11,
+    "CustomerId": 15,
+    "SaleDate": "2023-08-30T09:00:00",
+    "Quantity": 1,
+    "TotalAmount": 19.90
+  },
+  {
+    "Id": 51,
+    "BookId": 7,
+    "CustomerId": 8,
+    "SaleDate": "2023-09-02T13:15:00",
+    "Quantity": 1,
+    "TotalAmount": 32.50
+  },
+  {
+    "Id": 52,
+    "BookId": 1,
+    "CustomerId": 19,
+    "SaleDate": "2023-09-05T10:40:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 53,
+    "BookId": 8,
+    "CustomerId": 6,
+    "SaleDate": "2023-09-08T15:55:00",
+    "Quantity": 2,
+    "TotalAmount": 91.00
+  },
+  {
+    "Id": 54,
+    "BookId": 4,
+    "CustomerId": 13,
+    "SaleDate": "2023-09-10T11:10:00",
+    "Quantity": 1,
+    "TotalAmount": 28.50
+  },
+  {
+    "Id": 55,
+    "BookId": 12,
+    "CustomerId": 2,
+    "SaleDate": "2023-09-12T16:25:00",
+    "Quantity": 1,
+    "TotalAmount": 29.25
+  },
+  {
+    "Id": 56,
+    "BookId": 6,
+    "CustomerId": 17,
+    "SaleDate": "2023-09-15T09:40:00",
+    "Quantity": 1,
+    "TotalAmount": 16.99
+  },
+  {
+    "Id": 57,
+    "BookId": 9,
+    "CustomerId": 4,
+    "SaleDate": "2023-09-18T14:05:00",
+    "Quantity": 2,
+    "TotalAmount": 54.80
+  },
+  {
+    "Id": 58,
+    "BookId": 2,
+    "CustomerId": 20,
+    "SaleDate": "2023-09-20T10:20:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 59,
+    "BookId": 5,
+    "CustomerId": 11,
+    "SaleDate": "2023-09-22T15:35:00",
+    "Quantity": 1,
+    "TotalAmount": 24.99
+  },
+  {
+    "Id": 60,
+    "BookId": 10,
+    "CustomerId": 1,
+    "SaleDate": "2023-09-25T11:50:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 61,
+    "BookId": 3,
+    "CustomerId": 16,
+    "SaleDate": "2023-09-28T16:05:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 62,
+    "BookId": 11,
+    "CustomerId": 9,
+    "SaleDate": "2023-09-30T09:20:00",
+    "Quantity": 1,
+    "TotalAmount": 19.90
+  },
+  {
+    "Id": 63,
+    "BookId": 7,
+    "CustomerId": 14,
+    "SaleDate": "2023-10-03T14:35:00",
+    "Quantity": 2,
+    "TotalAmount": 65.00
+  },
+  {
+    "Id": 64,
+    "BookId": 1,
+    "CustomerId": 5,
+    "SaleDate": "2023-10-05T10:50:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 65,
+    "BookId": 8,
+    "CustomerId": 21,
+    "SaleDate": "2023-10-08T15:05:00",
+    "Quantity": 1,
+    "TotalAmount": 45.50
+  },
+  {
+    "Id": 66,
+    "BookId": 4,
+    "CustomerId": 12,
+    "SaleDate": "2023-10-10T11:20:00",
+    "Quantity": 1,
+    "TotalAmount": 28.50
+  },
+  {
+    "Id": 67,
+    "BookId": 6,
+    "CustomerId": 7,
+    "SaleDate": "2023-10-12T16:35:00",
+    "Quantity": 1,
+    "TotalAmount": 16.99
+  },
+  {
+    "Id": 68,
+    "BookId": 12,
+    "CustomerId": 18,
+    "SaleDate": "2023-10-15T09:50:00",
+    "Quantity": 2,
+    "TotalAmount": 58.50
+  },
+  {
+    "Id": 69,
+    "BookId": 9,
+    "CustomerId": 3,
+    "SaleDate": "2023-10-18T14:05:00",
+    "Quantity": 1,
+    "TotalAmount": 27.40
+  },
+  {
+    "Id": 70,
+    "BookId": 2,
+    "CustomerId": 13,
+    "SaleDate": "2023-10-20T10:20:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 71,
+    "BookId": 5,
+    "CustomerId": 8,
+    "SaleDate": "2023-10-22T15:35:00",
+    "Quantity": 1,
+    "TotalAmount": 24.99
+  },
+  {
+    "Id": 72,
+    "BookId": 10,
+    "CustomerId": 19,
+    "SaleDate": "2023-10-25T11:50:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 73,
+    "BookId": 3,
+    "CustomerId": 6,
+    "SaleDate": "2023-10-28T16:05:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 74,
+    "BookId": 11,
+    "CustomerId": 15,
+    "SaleDate": "2023-10-30T09:20:00",
+    "Quantity": 2,
+    "TotalAmount": 39.80
+  },
+  {
+    "Id": 75,
+    "BookId": 7,
+    "CustomerId": 2,
+    "SaleDate": "2023-11-02T14:35:00",
+    "Quantity": 1,
+    "TotalAmount": 32.50
+  },
+  {
+    "Id": 76,
+    "BookId": 1,
+    "CustomerId": 10,
+    "SaleDate": "2023-11-05T10:50:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 77,
+    "BookId": 8,
+    "CustomerId": 20,
+    "SaleDate": "2023-11-08T15:05:00",
+    "Quantity": 1,
+    "TotalAmount": 45.50
+  },
+  {
+    "Id": 78,
+    "BookId": 4,
+    "CustomerId": 4,
+    "SaleDate": "2023-11-10T11:20:00",
+    "Quantity": 2,
+    "TotalAmount": 57.00
+  },
+  {
+    "Id": 79,
+    "BookId": 6,
+    "CustomerId": 16,
+    "SaleDate": "2023-11-12T16:35:00",
+    "Quantity": 1,
+    "TotalAmount": 16.99
+  },
+  {
+    "Id": 80,
+    "BookId": 12,
+    "CustomerId": 1,
+    "SaleDate": "2023-11-15T09:50:00",
+    "Quantity": 1,
+    "TotalAmount": 29.25
+  },
+  {
+    "Id": 81,
+    "BookId": 9,
+    "CustomerId": 17,
+    "SaleDate": "2023-11-18T14:05:00",
+    "Quantity": 3,
+    "TotalAmount": 82.20
+  },
+  {
+    "Id": 82,
+    "BookId": 2,
+    "CustomerId": 11,
+    "SaleDate": "2023-11-20T10:20:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 83,
+    "BookId": 5,
+    "CustomerId": 7,
+    "SaleDate": "2023-11-22T15:35:00",
+    "Quantity": 1,
+    "TotalAmount": 24.99
+  },
+  {
+    "Id": 84,
+    "BookId": 10,
+    "CustomerId": 14,
+    "SaleDate": "2023-11-25T11:50:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 85,
+    "BookId": 3,
+    "CustomerId": 9,
+    "SaleDate": "2023-11-28T16:05:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 86,
+    "BookId": 11,
+    "CustomerId": 5,
+    "SaleDate": "2023-11-30T09:20:00",
+    "Quantity": 1,
+    "TotalAmount": 19.90
+  },
+  {
+    "Id": 87,
+    "BookId": 7,
+    "CustomerId": 21,
+    "SaleDate": "2023-12-03T14:35:00",
+    "Quantity": 1,
+    "TotalAmount": 32.50
+  },
+  {
+    "Id": 88,
+    "BookId": 1,
+    "CustomerId": 3,
+    "SaleDate": "2023-12-05T10:50:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 89,
+    "BookId": 8,
+    "CustomerId": 18,
+    "SaleDate": "2023-12-08T15:05:00",
+    "Quantity": 2,
+    "TotalAmount": 91.00
+  },
+  {
+    "Id": 90,
+    "BookId": 4,
+    "CustomerId": 13,
+    "SaleDate": "2023-12-10T11:20:00",
+    "Quantity": 1,
+    "TotalAmount": 28.50
+  },
+  {
+    "Id": 91,
+    "BookId": 6,
+    "CustomerId": 8,
+    "SaleDate": "2023-12-12T16:35:00",
+    "Quantity": 1,
+    "TotalAmount": 16.99
+  },
+  {
+    "Id": 92,
+    "BookId": 12,
+    "CustomerId": 19,
+    "SaleDate": "2023-12-15T09:50:00",
+    "Quantity": 2,
+    "TotalAmount": 58.50
+  },
+  {
+    "Id": 93,
+    "BookId": 9,
+    "CustomerId": 4,
+    "SaleDate": "2023-12-18T14:05:00",
+    "Quantity": 1,
+    "TotalAmount": 27.40
+  },
+  {
+    "Id": 94,
+    "BookId": 2,
+    "CustomerId": 15,
+    "SaleDate": "2023-12-20T10:20:00",
+    "Quantity": 1,
+    "TotalAmount": 42.90
+  },
+  {
+    "Id": 95,
+    "BookId": 5,
+    "CustomerId": 1,
+    "SaleDate": "2023-12-22T15:35:00",
+    "Quantity": 2,
+    "TotalAmount": 49.98
+  },
+  {
+    "Id": 96,
+    "BookId": 10,
+    "CustomerId": 10,
+    "SaleDate": "2023-12-25T11:50:00",
+    "Quantity": 1,
+    "TotalAmount": 37.90
+  },
+  {
+    "Id": 97,
+    "BookId": 3,
+    "CustomerId": 16,
+    "SaleDate": "2023-12-27T16:05:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  },
+  {
+    "Id": 98,
+    "BookId": 11,
+    "CustomerId": 2,
+    "SaleDate": "2023-12-29T09:20:00",
+    "Quantity": 1,
+    "TotalAmount": 19.90
+  },
+  {
+    "Id": 99,
+    "BookId": 7,
+    "CustomerId": 12,
+    "SaleDate": "2023-12-30T14:35:00",
+    "Quantity": 2,
+    "TotalAmount": 65.00
+  },
+  {
+    "Id": 100,
+    "BookId": 1,
+    "CustomerId": 7,
+    "SaleDate": "2023-12-31T10:50:00",
+    "Quantity": 1,
+    "TotalAmount": 29.99
+  }
+] 

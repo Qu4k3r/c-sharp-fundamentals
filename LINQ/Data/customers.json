@@ -1,0 +1,362 @@
+[
+  {
+    "Id": 1,
+    "Name": "Maria Silva",
+    "Email": "maria.silva@email.com",
+    "City": "São Paulo",
+    "Country": "Brasil",
+    "MemberSince": "2020-03-15T00:00:00",
+    "TotalPurchases": 12
+  },
+  {
+    "Id": 2,
+    "Name": "João Santos",
+    "Email": "joao.santos@email.com",
+    "City": "Rio de Janeiro",
+    "Country": "Brasil",
+    "MemberSince": "2020-05-22T00:00:00",
+    "TotalPurchases": 8
+  },
+  {
+    "Id": 3,
+    "Name": "Ana Oliveira",
+    "Email": "ana.oliveira@email.com",
+    "City": "Belo Horizonte",
+    "Country": "Brasil",
+    "MemberSince": "2020-07-10T00:00:00",
+    "TotalPurchases": 15
+  },
+  {
+    "Id": 4,
+    "Name": "Carlos Pereira",
+    "Email": "carlos.pereira@email.com",
+    "City": "Brasília",
+    "Country": "Brasil",
+    "MemberSince": "2020-08-05T00:00:00",
+    "TotalPurchases": 7
+  },
+  {
+    "Id": 5,
+    "Name": "Juliana Costa",
+    "Email": "juliana.costa@email.com",
+    "City": "Curitiba",
+    "Country": "Brasil",
+    "MemberSince": "2020-09-18T00:00:00",
+    "TotalPurchases": 11
+  },
+  {
+    "Id": 6,
+    "Name": "Pedro Almeida",
+    "Email": "pedro.almeida@email.com",
+    "City": "Porto Alegre",
+    "Country": "Brasil",
+    "MemberSince": "2020-10-25T00:00:00",
+    "TotalPurchases": 6
+  },
+  {
+    "Id": 7,
+    "Name": "Fernanda Lima",
+    "Email": "fernanda.lima@email.com",
+    "City": "Salvador",
+    "Country": "Brasil",
+    "MemberSince": "2020-11-30T00:00:00",
+    "TotalPurchases": 14
+  },
+  {
+    "Id": 8,
+    "Name": "Roberto Gomes",
+    "Email": "roberto.gomes@email.com",
+    "City": "Recife",
+    "Country": "Brasil",
+    "MemberSince": "2021-01-12T00:00:00",
+    "TotalPurchases": 9
+  },
+  {
+    "Id": 9,
+    "Name": "Daniela Martins",
+    "Email": "daniela.martins@email.com",
+    "City": "Fortaleza",
+    "Country": "Brasil",
+    "MemberSince": "2021-02-20T00:00:00",
+    "TotalPurchases": 5
+  },
+  {
+    "Id": 10,
+    "Name": "Marcelo Souza",
+    "Email": "marcelo.souza@email.com",
+    "City": "Manaus",
+    "Country": "Brasil",
+    "MemberSince": "2021-03-15T00:00:00",
+    "TotalPurchases": 10
+  },
+  {
+    "Id": 11,
+    "Name": "Patricia Ramos",
+    "Email": "patricia.ramos@email.com",
+    "City": "São Paulo",
+    "Country": "Brasil",
+    "MemberSince": "2021-04-22T00:00:00",
+    "TotalPurchases": 13
+  },
+  {
+    "Id": 12,
+    "Name": "Lucas Ferreira",
+    "Email": "lucas.ferreira@email.com",
+    "City": "Rio de Janeiro",
+    "Country": "Brasil",
+    "MemberSince": "2021-05-30T00:00:00",
+    "TotalPurchases": 7
+  },
+  {
+    "Id": 13,
+    "Name": "Camila Ribeiro",
+    "Email": "camila.ribeiro@email.com",
+    "City": "Belo Horizonte",
+    "Country": "Brasil",
+    "MemberSince": "2021-06-18T00:00:00",
+    "TotalPurchases": 16
+  },
+  {
+    "Id": 14,
+    "Name": "Gustavo Castro",
+    "Email": "gustavo.castro@email.com",
+    "City": "Brasília",
+    "Country": "Brasil",
+    "MemberSince": "2021-07-10T00:00:00",
+    "TotalPurchases": 4
+  },
+  {
+    "Id": 15,
+    "Name": "Amanda Carvalho",
+    "Email": "amanda.carvalho@email.com",
+    "City": "Curitiba",
+    "Country": "Brasil",
+    "MemberSince": "2021-08-25T00:00:00",
+    "TotalPurchases": 9
+  },
+  {
+    "Id": 16,
+    "Name": "Rafael Nunes",
+    "Email": "rafael.nunes@email.com",
+    "City": "Porto Alegre",
+    "Country": "Brasil",
+    "MemberSince": "2021-09-15T00:00:00",
+    "TotalPurchases": 11
+  },
+  {
+    "Id": 17,
+    "Name": "Letícia Mendes",
+    "Email": "leticia.mendes@email.com",
+    "City": "Salvador",
+    "Country": "Brasil",
+    "MemberSince": "2021-10-20T00:00:00",
+    "TotalPurchases": 8
+  },
+  {
+    "Id": 18,
+    "Name": "Bruno Silva",
+    "Email": "bruno.silva@email.com",
+    "City": "Recife",
+    "Country": "Brasil",
+    "MemberSince": "2021-11-18T00:00:00",
+    "TotalPurchases": 15
+  },
+  {
+    "Id": 19,
+    "Name": "Carolina Santos",
+    "Email": "carolina.santos@email.com",
+    "City": "Fortaleza",
+    "Country": "Brasil",
+    "MemberSince": "2021-12-10T00:00:00",
+    "TotalPurchases": 12
+  },
+  {
+    "Id": 20,
+    "Name": "Diego Oliveira",
+    "Email": "diego.oliveira@email.com",
+    "City": "Manaus",
+    "Country": "Brasil",
+    "MemberSince": "2022-01-15T00:00:00",
+    "TotalPurchases": 6
+  },
+  {
+    "Id": 21,
+    "Name": "Julia Rodrigues",
+    "Email": "julia.rodrigues@email.com",
+    "City": "São Paulo",
+    "Country": "Brasil",
+    "MemberSince": "2022-02-22T00:00:00",
+    "TotalPurchases": 10
+  },
+  {
+    "Id": 22,
+    "Name": "Thiago Barbosa",
+    "Email": "thiago.barbosa@email.com",
+    "City": "Campinas",
+    "Country": "Brasil",
+    "MemberSince": "2022-03-18T00:00:00",
+    "TotalPurchases": 14
+  },
+  {
+    "Id": 23,
+    "Name": "Sophie García",
+    "Email": "sophie.garcia@email.com",
+    "City": "Madrid",
+    "Country": "Espanha",
+    "MemberSince": "2022-04-05T00:00:00",
+    "TotalPurchases": 8
+  },
+  {
+    "Id": 24,
+    "Name": "James Wilson",
+    "Email": "james.wilson@email.com",
+    "City": "London",
+    "Country": "Reino Unido",
+    "MemberSince": "2022-05-12T00:00:00",
+    "TotalPurchases": 11
+  },
+  {
+    "Id": 25,
+    "Name": "Isabella Martinez",
+    "Email": "isabella.martinez@email.com",
+    "City": "Buenos Aires",
+    "Country": "Argentina",
+    "MemberSince": "2022-06-20T00:00:00",
+    "TotalPurchases": 7
+  },
+  {
+    "Id": 26,
+    "Name": "Louis Dubois",
+    "Email": "louis.dubois@email.com",
+    "City": "Paris",
+    "Country": "França",
+    "MemberSince": "2022-07-15T00:00:00",
+    "TotalPurchases": 9
+  },
+  {
+    "Id": 27,
+    "Name": "Emma Schmidt",
+    "Email": "emma.schmidt@email.com",
+    "City": "Berlin",
+    "Country": "Alemanha",
+    "MemberSince": "2022-08-08T00:00:00",
+    "TotalPurchases": 13
+  },
+  {
+    "Id": 28,
+    "Name": "João Pereira",
+    "Email": "joao.pereira@email.com",
+    "City": "Lisboa",
+    "Country": "Portugal",
+    "MemberSince": "2022-09-17T00:00:00",
+    "TotalPurchases": 6
+  },
+  {
+    "Id": 29,
+    "Name": "Michael Johnson",
+    "Email": "michael.johnson@email.com",
+    "City": "New York",
+    "Country": "Estados Unidos",
+    "MemberSince": "2022-10-24T00:00:00",
+    "TotalPurchases": 12
+  },
+  {
+    "Id": 30,
+    "Name": "Beatriz Sanchez",
+    "Email": "beatriz.sanchez@email.com",
+    "City": "Cidade do México",
+    "Country": "México",
+    "MemberSince": "2022-11-11T00:00:00",
+    "TotalPurchases": 5
+  },
+  {
+    "Id": 31,
+    "Name": "Takashi Tanaka",
+    "Email": "takashi.tanaka@email.com",
+    "City": "Tokyo",
+    "Country": "Japão",
+    "MemberSince": "2022-12-18T00:00:00",
+    "TotalPurchases": 10
+  },
+  {
+    "Id": 32,
+    "Name": "Lisa Chen",
+    "Email": "lisa.chen@email.com",
+    "City": "Shanghai",
+    "Country": "China",
+    "MemberSince": "2023-01-05T00:00:00",
+    "TotalPurchases": 8
+  },
+  {
+    "Id": 33,
+    "Name": "Gabriel Rocha",
+    "Email": "gabriel.rocha@email.com",
+    "City": "Salvador",
+    "Country": "Brasil",
+    "MemberSince": "2023-02-14T00:00:00",
+    "TotalPurchases": 11
+  },
+  {
+    "Id": 34,
+    "Name": "Maria González",
+    "Email": "maria.gonzalez@email.com",
+    "City": "Barcelona",
+    "Country": "Espanha",
+    "MemberSince": "2023-03-22T00:00:00",
+    "TotalPurchases": 7
+  },
+  {
+    "Id": 35,
+    "Name": "Oliver Taylor",
+    "Email": "oliver.taylor@email.com",
+    "City": "Sydney",
+    "Country": "Austrália",
+    "MemberSince": "2023-04-09T00:00:00",
+    "TotalPurchases": 14
+  },
+  {
+    "Id": 36,
+    "Name": "Sofia Rossi",
+    "Email": "sofia.rossi@email.com",
+    "City": "Roma",
+    "Country": "Itália",
+    "MemberSince": "2023-05-15T00:00:00",
+    "TotalPurchases": 9
+  },
+  {
+    "Id": 37,
+    "Name": "Alexandre Dumont",
+    "Email": "alexandre.dumont@email.com",
+    "City": "Montreal",
+    "Country": "Canadá",
+    "MemberSince": "2023-06-20T00:00:00",
+    "TotalPurchases": 6
+  },
+  {
+    "Id": 38,
+    "Name": "Nicole van der Berg",
+    "Email": "nicole.berg@email.com",
+    "City": "Amsterdam",
+    "Country": "Holanda",
+    "MemberSince": "2023-07-12T00:00:00",
+    "TotalPurchases": 10
+  },
+  {
+    "Id": 39,
+    "Name": "Mateus Oliveira",
+    "Email": "mateus.oliveira@email.com",
+    "City": "Porto",
+    "Country": "Portugal",
+    "MemberSince": "2023-08-19T00:00:00",
+    "TotalPurchases": 8
+  },
+  {
+    "Id": 40,
+    "Name": "Elena Petrova",
+    "Email": "elena.petrova@email.com",
+    "City": "Moscow",
+    "Country": "Rússia",
+    "MemberSince": "2023-09-05T00:00:00",
+    "TotalPurchases": 12
+  }
+] 

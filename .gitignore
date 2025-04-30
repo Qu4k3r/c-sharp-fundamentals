@@ -1,0 +1,64 @@
+# .gitignore para projetos .NET/C#
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored if you use PackageReference
+packages/
+# NuGet v3's project.json files produces this folder
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Backup & temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Dotnet watch
+**/node_modules/
+
+# Others
+.DS_Store
+Thumbs.db 

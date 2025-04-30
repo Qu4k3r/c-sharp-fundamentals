@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Name": "Ficção Clássica",
+    "Description": "Obras literárias que resistiram ao teste do tempo"
+  },
+  {
+    "Id": 2,
+    "Name": "Ficção Científica",
+    "Description": "Histórias baseadas em avanços científicos reais ou imaginários e seus impactos"
+  },
+  {
+    "Id": 3,
+    "Name": "Infantil",
+    "Description": "Livros voltados para o público infantil"
+  },
+  {
+    "Id": 4,
+    "Name": "Fantasia",
+    "Description": "Histórias com elementos mágicos ou sobrenaturais em mundos fictícios"
+  },
+  {
+    "Id": 5,
+    "Name": "Autoajuda",
+    "Description": "Livros que auxiliam no desenvolvimento pessoal e crescimento"
+  },
+  {
+    "Id": 6,
+    "Name": "Jovem Adulto",
+    "Description": "Literatura voltada para adolescentes e jovens adultos"
+  },
+  {
+    "Id": 7,
+    "Name": "Suspense",
+    "Description": "Histórias com elementos de mistério, suspense e tensão"
+  },
+  {
+    "Id": 8,
+    "Name": "Terror",
+    "Description": "Histórias que buscam provocar medo, horror ou pavor nos leitores"
+  },
+  {
+    "Id": 9,
+    "Name": "Filosofia",
+    "Description": "Obras que exploram questões fundamentais sobre existência, conhecimento, valores e razão"
+  },
+  {
+    "Id": 10,
+    "Name": "História",
+    "Description": "Livros sobre eventos históricos e suas análises"
+  }
+] 
