@@ -20,7 +20,13 @@ namespace LINQ.Challenges.Level1
          */
         public static List<ExpensiveBookDTO> GetExpensiveBooks(List<Book> books)
         {
-            throw new Exception("Not implemented yet");
+            return [.. books
+                .Where(book => book.Price > 35)
+                .Select(book => new ExpensiveBookDTO{
+                    Title = book.Title,
+                    Price = book.Price,
+                    CategoryId = book.CategoryId,
+                })];
         }
 
         /*

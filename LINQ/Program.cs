@@ -4,10 +4,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
+using LINQ.DTO;
 using LINQ.Models;
-using LINQ.Challenges.Level1;
-using LINQ.Challenges.Level2;
-using LINQ.Challenges.Level3;
+using static LINQ.Challenges.Level1.Challenges;
 
 namespace LINQ
 {
@@ -39,7 +38,7 @@ namespace LINQ
 
 
             // Escolha um nível para trabalhar ou comente/descomente conforme necessário
-            // RunLevel1Challenges();
+            RunLevel1Challenges(books);
             // RunLevel2Challenges();
             // RunLevel3Challenges();
 
@@ -70,23 +69,25 @@ namespace LINQ
             return items;
         }
 
-        // static void RunLevel1Challenges()
-        // {
-        //     Console.WriteLine("\n=== Nível 1: Fundamentos ===\n");
+        static void RunLevel1Challenges(List<Book> books)
+        {
+            Console.WriteLine("\n=== Nível 1: Fundamentos ===\n");
+            List<ExpensiveBookDTO> expensiveBooks = GetExpensiveBooks(books);
 
-        // }
-        
+            expensiveBooks.ForEach(book => Console.WriteLine($"{book.Title}: R$ {book.Price}. Category: {book.CategoryId}"));
+        }
+
         // static void RunLevel2Challenges()
         // {
         //     Console.WriteLine("\n=== Nível 2: Intermediário ===\n");
-            
+
         //     // Implemente os desafios do Nível 2 aqui
         // }
-        
+
         // static void RunLevel3Challenges()
         // {
         //     Console.WriteLine("\n=== Nível 3: Avançado ===\n");
-            
+
         //     // Implemente os desafios do Nível 3 aqui
         // }
     }
